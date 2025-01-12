@@ -73,12 +73,3 @@ This project provided deep insights into:
 - Efficient hyperparameter tuning strategies.
 - The power of visualization in interpreting model performance.
 
-## Future Work
-- Exploring ensemble methods by combining XGBoost with other models.
-- Automating feature engineering through advanced algorithms.
-- Applying SHAP (SHapley Additive exPlanations) for deeper interpretability.
-
----
-
-This project showcases my ability to deliver high-performing machine learning solutions in competitive settings, leveraging state-of-the-art tools and methodologies.
-
